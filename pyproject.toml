@@ -12,6 +12,8 @@ dependencies = [
   "PyQtWebEngine"
 ]
 
+license = { text = "Creative Commons Attribution-NoDerivatives 4.0 International License" }
+
 [project.urls]
 Homepage = "https://github.com/Franektoube/micro-webview"
 
