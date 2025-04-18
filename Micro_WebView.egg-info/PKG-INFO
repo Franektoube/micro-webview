@@ -3,6 +3,7 @@ Name: Micro-WebView
 Version: 1.0.0
 Summary: Minimal Web View based on PyQtWebEngine
 Author-email: Franek Kurzawa <frankox7@interia.pl>
+License: Creative Commons Attribution-NoDerivatives 4.0 International License
 Project-URL: Homepage, https://github.com/Franektoube/micro-webview
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
