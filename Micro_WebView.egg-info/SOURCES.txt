@@ -6,3 +6,4 @@ Micro_WebView.egg-info/SOURCES.txt
 Micro_WebView.egg-info/dependency_links.txt
 Micro_WebView.egg-info/requires.txt
 Micro_WebView.egg-info/top_level.txt
+microwebview/__init__.py
