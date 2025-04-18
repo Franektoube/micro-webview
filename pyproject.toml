@@ -1,0 +1,20 @@
+[project]
+name = "Micro-WebView"
+version = "1.0.0"
+description = "Minimal Web View based on PyQtWebEngine"
+authors = [
+  { name="Franek Kurzawa", email="frankox7@interia.pl" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+  "PyQt5",
+  "PyQtWebEngine"
+]
+
+[project.urls]
+Homepage = "https://github.com/Franektoube/micro-webview"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Micro-WebView
+Version: 1.0.0
+Summary: Minimal Web View based on PyQtWebEngine
+Author-email: Franek Kurzawa <frankox7@interia.pl>
+Project-URL: Homepage, https://github.com/Franektoube/micro-webview
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: PyQt5
+Requires-Dist: PyQtWebEngine
+Dynamic: license-file
+
+Minimal Web View based on PyQtWebEngine

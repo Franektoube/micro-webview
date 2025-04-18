@@ -1,0 +1,1 @@
+Minimal Web View based on PyQtWebEngine
